@@ -13,7 +13,7 @@ export const portfolioData = {
   // Resume
   resume: {
     fileName: 'Al_Mottasim_Riyad_Resume.pdf',
-    path: '/myResume (3).pdf',
+    path: '/resumes/Al_Mottasim_Riyad_Resume.pdf',
     downloadText: 'Download Resume',
   },
 
@@ -174,7 +174,7 @@ export const portfolioData = {
     {
       id: 1,
       title: 'Computer Office and Package and Internet Browsing',
-      provider: "Farhan's Academy",
+      provider: "BSCIC Rajshahi",
       date: 'July 2019',
       icon: 'fas fa-desktop',
       image: '/images/certifications/BSCIC.png',
