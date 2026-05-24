@@ -13,7 +13,7 @@ export const portfolioData = {
   // Resume
   resume: {
     fileName: 'Al_Mottasim_Riyad_Resume.pdf',
-    path: '/Al_Mottasim_Riyad_Resume.pdf',
+    path: '/Al Mottasim Riyad.pdf',
     downloadText: 'Download Resume',
   },
 
