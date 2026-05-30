@@ -14,7 +14,7 @@ export const portfolioData = {
   resume: {
     fileName: 'Al_Mottasim_Riyad_Resume.pdf',
     path: '/Al_Mottasim_Riyad.pdf',
-    downloadText: 'My Resume',
+    downloadText: 'Download My Resume',
   },
 
   // Social Links
