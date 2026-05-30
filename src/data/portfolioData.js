@@ -1,8 +1,8 @@
 // Portfolio data for Al Mottasim Riyad
 
 export const portfolioData = {
-  name: 'Al Mottasim Riyad',
-  title: 'Computer Science Student at United International University',
+  name: 'Hello I\'m Al Mottasim Riyad',
+  title: 'Final Year Computer Science Student at United International University',
   subtitle:
     'Passionate about solving problems with code and creating innovative solutions',
   location: 'Notun Bazar, Badda, Dhaka',
@@ -13,8 +13,8 @@ export const portfolioData = {
   // Resume
   resume: {
     fileName: 'Al_Mottasim_Riyad_Resume.pdf',
-    path: '/Al Mottasim Riyad.pdf',
-    downloadText: 'Download Resume',
+    path: '/Al_Mottasim_Riyad.pdf',
+    downloadText: 'My Resume',
   },
 
   // Social Links
@@ -40,7 +40,7 @@ export const portfolioData = {
   about: {
     title: 'About Me',
     description: [
-      "I’m Al Mottasim Riyad, a final-year Computer Science student at United International University. I’m passionate about learning new technologies, solving problems, and improving my coding skills every day. I am interested in Artificial Intelligence and Machine Learning.",
+      "I’m Al Mottasim Riyad, a final-year Computer Science student at United International University. I’m passionate about learning new technologies, solving problems, and continuously improving my coding skills. I am interested in Artificial Intelligence and Machine Learning.",
       "With a strong foundation in Data Structures, Algorithms, and Web Development, I love building applications that solve real-world problems. I'm always eager to take on new challenges and collaborate with talented developers to create impactful solutions.",
     ],
   },
